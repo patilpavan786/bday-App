@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid gray;
+    width: 40rem;
+    margin: auto;
+    margin-top: 3rem;
+    height: 600px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+    background-color: aqua;
+align-items: center;}
+
+.input{
+    width: 25rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 1.5rem;
+    border: none;
+    outline: none;
+    border: 1px solid gray;
+    /* background-color: black;
+     */
+     /* background: none; */
+    color: #000000;
+}
+
+.btn{
+    width: 25rem;
+    padding: 1rem;
+    font-size: 20px;
+    margin: 0.5rem;
+    /* background-color: black; */
+    border-radius: 1.5rem;
+    border: none;
+    cursor: pointer;
+    color: black;
+}
